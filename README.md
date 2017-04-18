@@ -28,7 +28,7 @@ You can use the [editor on GitHub](https://github.com/ShoutangYang/Resume/edit/m
 
 工作经验
 
-**开发工程师****  |  ****北京中科泛华测控技术有限公司****  |  ****2015年12月~2016年11月**
+开发工程师  | 北京中科泛华测控技术有限公司 |  2015年12月~2016年11月
 
 C919大飞机IDU综合显示器测试系统
 
@@ -77,12 +77,12 @@ AFDX交换机测试系统
 
 应用工程师 | 北京中科泛华测控技术有限公司 | 2014年6月~2015年2月
 
-- ··通过电话或邮件的形式解决客户的技术问题
-- ··为市场活动搭建demo
-- ··提供自动化测试系统的软件和硬件咨询
-**Bold** and _Italic_ and `Code` text
+- 通过电话或邮件的形式解决客户的技术问题
+- 为市场活动搭建demo
+- 提供自动化测试系统的软件和硬件咨询
 
-[Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
