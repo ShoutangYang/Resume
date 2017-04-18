@@ -83,7 +83,5 @@ AFDX交换机测试系统
 
 
 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
