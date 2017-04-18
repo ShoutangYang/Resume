@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/ShoutangYang/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-# ‍‍杨寿堂
+# 杨寿堂
 
 云南省大理州剑川县 | 18616741206 | to\_tsy@163.com|
 
